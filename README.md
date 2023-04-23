@@ -1,4 +1,4 @@
-First team project in sprint 2 of ALX Software Engineering  program with BIBIANCHUMSY BIBIAN
+First team project in sprint 2 of ALX Software Engineering  program 
 
 Stacks, Queues - LIFO, FIFO
 
